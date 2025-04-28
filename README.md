@@ -1,7 +1,11 @@
 # Instagram-User-Analytics-
 In this project, we are supposed to provide a detailed report for the Marketing and Investor metrics department. this analysis will help them make a decision based on different metrics and  insights.
+
 Questions:
+
+
 MARKETING:
+
 REWARDING MOST LOYAL USERS:
    >> Find the 5 oldest users of the Instagram from the database provided.
 
